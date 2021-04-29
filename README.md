@@ -10,7 +10,7 @@ Con este script, lo realizarás mientras te tomas un café.
 
    1. Copiar el script en la carpeta home
    2. Dar permisos de ejecución al script:
-      sudo chmod +x sipp_install.sh 
+      sudo chmod +x sipp_full_install.sh 
    3. Desde el directorio home, ejecutar el script:
       sudo ./sipp_full_install.sh 
    4. Tomarse un café mientras se instalan las dependencias y SIPp en el directorio /opt/sipp3-3
